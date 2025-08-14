@@ -1,0 +1,16 @@
+vector -> pass list
+all vector function like at(index) , font back reverse pop_back 
+push_back size insert ease -> remove , pop -> remove at index
+
+explaining
+font -> return first value /
+back -> return last value /
+reverse -> reverse the vector /
+pop_back -> remove last value /
+push_back(value) -> add value at last /
+size -> return length of vector /
+insert(index , value) -> add value to vector at specific index /
+ease(num/value) -> remove given value
+pop -> remove given index value /
+show -> for print these all values /
+at(index) ->  for printing value at Kth index
